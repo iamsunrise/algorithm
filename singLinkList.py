@@ -40,3 +40,4 @@ class SingLinkList(object):
         """删除节点"""
         pass
 
+if __init__ == 'main':
